@@ -2,11 +2,6 @@ package chess3;
 
 import java.util.Scanner;
 
-/**
- * User interface for two player chess console.
- *
- * @author John Phillips
- */
 public class ChessUI {
 
     ChessBoard myBoard;
