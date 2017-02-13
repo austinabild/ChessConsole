@@ -1,11 +1,5 @@
 package chess3;
 
-/**
- * Represents a chess board. Each square on the chess board can hold a chessman
- * object.
- *
- * @author John Phillips
- */
 public class ChessBoard {
 
     /**
