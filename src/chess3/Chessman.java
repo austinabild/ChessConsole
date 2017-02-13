@@ -1,12 +1,5 @@
 package chess3;
 
-/**
- * This class represents a single chessman which is represented by a one letter
- * symbol. Lowercase letters are used for white pieces and uppercase letters are
- * used for black pieces. A dash (-) indicates a non-existent piece.
- *
- * @author John Phillips
- */
 public class Chessman {
 
     /**
