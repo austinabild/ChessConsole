@@ -32,9 +32,9 @@ public class ChessUI {
         // loop until the game is over
         while (!gameOver) {
             if (count % 2 == 0) {
-                System.out.println("White's move.");
+                System.out.println("Turn: WHITE");
             } else {
-                System.out.println("Black's move.");
+                System.out.println("Turn: BLACK");
             }
 
             // loop until a valid move is entered or the user quits
